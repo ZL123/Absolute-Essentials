@@ -3,7 +3,6 @@ package absoluteEssentials.lib;
 public class DefaultIDs {
 	
 	//Items
-	public static final int bucketWood = 20139;
 	public static final int bucketCopper = 20140;
 	public static final int bucketTin = 20141;
 	public static final int bucketIron = 20142;
