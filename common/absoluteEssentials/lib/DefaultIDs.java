@@ -45,17 +45,46 @@ public class DefaultIDs {
 	public static final int chromiumDur = 24;
 	public static final int titaniumDur = 19;
 	public static final int antimonyDur = 10;
-	public static final int osmiumDur = 32;
+	public static final int osmiumDur = 30;
 	public static final int platinumDur = 36;
 	public static final int iridiumDur = 40;
 	public static final int tungstensteelDur = 48;
 	public static final int zincDur = 8;
-	public static final int bronzeDur = 7;
+	public static final int bronzeDur = 5;
 	public static final int brassDur = 15;
 	public static final int nickelDur = 16;
 	public static final int magnaliumDur = 20;
 	public static final int aluminiumDur = 1;
 	public static final int magnesiumDur = 10;
 	public static final int obsidianDur = 12;
+	
+	//Bucket 'depth'
+	public static final int copperDepth = 1;
+	public static final int tinDepth = 1;
+	public static final int ironDepth = 1;
+	public static final int steelDepth = 2;
+	public static final int carbonDepth = 1;
+	public static final int silverDepth = 1;
+	public static final int leadDepth = 1;
+	public static final int goldDepth = 3;
+	public static final int invarDepth = 1;
+	public static final int electrumDepth = 2;
+	public static final int tungstenDepth = 2;
+	public static final int chromiumDepth = 3;
+	public static final int titaniumDepth = 3;
+	public static final int antimonyDepth = 4;
+	public static final int osmiumDepth = 2;
+	public static final int platinumDepth = 4;
+	public static final int iridiumDepth = 5;
+	public static final int tungstensteelDepth = 5;
+	public static final int zincDepth = 2;
+	public static final int bronzeDepth = 2;
+	public static final int brassDepth = 2;
+	public static final int nickelDepth = 2;
+	public static final int magnaliumDepth = 2;
+	public static final int aluminiumDepth = 1;
+	public static final int magnesiumDepth = 2;
+	public static final int obsidianDepth = 1;
+	
 
 }
