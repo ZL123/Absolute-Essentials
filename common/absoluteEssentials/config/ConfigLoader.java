@@ -70,32 +70,32 @@ public class ConfigLoader {
 		ConfigSettings.obsidianDur = config.get("Obsidian Bucket Durability", "Durability", DefaultIDs.obsidianDur).getInt();
 		
 		//Bucket 'depth'
-		ConfigSettings.copperDepth = config.get("Copper Bucket Depth", "Depth", DefaultIDs.copperDepth).getInt();
-		ConfigSettings.tinDepth = config.get("Tin Bucket Depth", "Depth", DefaultIDs.tinDepth).getInt();
-		ConfigSettings.ironDepth = config.get("Iron Bucket Depth", "Depth", DefaultIDs.ironDepth).getInt();
-		ConfigSettings.steelDepth = config.get("Steel Bucket Depth", "Depth", DefaultIDs.steelDepth).getInt();
-		ConfigSettings.carbonDepth = config.get("Carbon Bucket Depth", "Depth", DefaultIDs.carbonDepth).getInt();
-		ConfigSettings.silverDepth = config.get("Silver Bucket Depth", "Depth", DefaultIDs.silverDepth).getInt();
-		ConfigSettings.leadDepth = config.get("Lead Bucket Depth", "Depth", DefaultIDs.leadDepth).getInt();
-		ConfigSettings.goldDepth = config.get("Gold Bucket Depth", "Depth", DefaultIDs.goldDepth).getInt();
-		ConfigSettings.invarDepth = config.get("Invar Bucket Depth", "Depth", DefaultIDs.invarDepth).getInt();
-		ConfigSettings.electrumDepth = config.get("Electrum Bucket Depth", "Depth", DefaultIDs.electrumDepth).getInt();
-		ConfigSettings.tungstenDepth = config.get("Tungsten Bucket Depth", "Depth", DefaultIDs.tungstenDepth).getInt();
-		ConfigSettings.chromiumDepth = config.get("Chromium Bucket Depth", "Depth", DefaultIDs.chromiumDepth).getInt();
-		ConfigSettings.titaniumDepth = config.get("Titanium Bucket Depth", "Depth", DefaultIDs.titaniumDepth).getInt();
-		ConfigSettings.antimonyDepth = config.get("Antimony Bucket Depth", "Depth", DefaultIDs.antimonyDepth).getInt();
-		ConfigSettings.osmiumDepth = config.get("Osmium Bucket Depth", "Depth", DefaultIDs.osmiumDepth).getInt();
-		ConfigSettings.platinumDepth = config.get("Platinum Bucket Depth", "Depth", DefaultIDs.platinumDepth).getInt();
-		ConfigSettings.iridiumDepth = config.get("Iridium Bucket Depth", "Depth", DefaultIDs.iridiumDepth).getInt();
-		ConfigSettings.tungstensteelDepth = config.get("Tungstensteel Bucket Depth", "Depth", DefaultIDs.tungstensteelDepth).getInt();
-		ConfigSettings.zincDepth = config.get("Zinc Bucket Depth", "Depth", DefaultIDs.zincDepth).getInt();
-		ConfigSettings.bronzeDepth = config.get("Bronze Bucket Depth", "Depth", DefaultIDs.bronzeDepth).getInt();
-		ConfigSettings.brassDepth = config.get("Brass Bucket Depth", "Depth", DefaultIDs.brassDepth).getInt();
-		ConfigSettings.nickelDepth = config.get("Nickel Bucket Depth", "Depth", DefaultIDs.nickelDepth).getInt();
-		ConfigSettings.magnaliumDepth = config.get("Magnalium Bucket Depth", "Depth", DefaultIDs.magnaliumDepth).getInt();
-		ConfigSettings.aluminiumDepth = config.get("Aluminium Bucket Depth", "Depth", DefaultIDs.aluminiumDepth).getInt();	
-		ConfigSettings.magnesiumDepth = config.get("Magnesium Bucket Depth", "Depth", DefaultIDs.magnesiumDepth).getInt();
-		ConfigSettings.obsidianDepth = config.get("Obsidian Bucket Depth", "Depth", DefaultIDs.obsidianDepth).getInt();
+		ConfigSettings.copperDepth = config.get("Copper Bucket Capacity", "Capacity", DefaultIDs.copperDepth).getInt();
+		ConfigSettings.tinDepth = config.get("Tin Bucket Capacity", "Capacity", DefaultIDs.tinDepth).getInt();
+		ConfigSettings.ironDepth = config.get("Iron Bucket Capacity", "Capacity", DefaultIDs.ironDepth).getInt();
+		ConfigSettings.steelDepth = config.get("Steel Bucket Capacity", "Capacity", DefaultIDs.steelDepth).getInt();
+		ConfigSettings.carbonDepth = config.get("Carbon Bucket Capacity", "Capacity", DefaultIDs.carbonDepth).getInt();
+		ConfigSettings.silverDepth = config.get("Silver Bucket Capacity", "Capacity", DefaultIDs.silverDepth).getInt();
+		ConfigSettings.leadDepth = config.get("Lead Bucket Capacity", "Capacity", DefaultIDs.leadDepth).getInt();
+		ConfigSettings.goldDepth = config.get("Gold Bucket Capacity", "Capacity", DefaultIDs.goldDepth).getInt();
+		ConfigSettings.invarDepth = config.get("Invar Bucket Capacity", "Capacity", DefaultIDs.invarDepth).getInt();
+		ConfigSettings.electrumDepth = config.get("Electrum Bucket Capacity", "Capacity", DefaultIDs.electrumDepth).getInt();
+		ConfigSettings.tungstenDepth = config.get("Tungsten Bucket Capacity", "Capacity", DefaultIDs.tungstenDepth).getInt();
+		ConfigSettings.chromiumDepth = config.get("Chromium Bucket Capacity", "Capacity", DefaultIDs.chromiumDepth).getInt();
+		ConfigSettings.titaniumDepth = config.get("Titanium Bucket Capacity", "Capacity", DefaultIDs.titaniumDepth).getInt();
+		ConfigSettings.antimonyDepth = config.get("Antimony Bucket Capacity", "Capacity", DefaultIDs.antimonyDepth).getInt();
+		ConfigSettings.osmiumDepth = config.get("Osmium Bucket Capacity", "Capacity", DefaultIDs.osmiumDepth).getInt();
+		ConfigSettings.platinumDepth = config.get("Platinum Bucket Capacity", "Capacity", DefaultIDs.platinumDepth).getInt();
+		ConfigSettings.iridiumDepth = config.get("Iridium Bucket Capacity", "Capacity", DefaultIDs.iridiumDepth).getInt();
+		ConfigSettings.tungstensteelDepth = config.get("Tungstensteel Bucket Capacity", "Capacity", DefaultIDs.tungstensteelDepth).getInt();
+		ConfigSettings.zincDepth = config.get("Zinc Bucket Capacity", "Capacity", DefaultIDs.zincDepth).getInt();
+		ConfigSettings.bronzeDepth = config.get("Bronze Bucket Capacity", "Capacity", DefaultIDs.bronzeDepth).getInt();
+		ConfigSettings.brassDepth = config.get("Brass Bucket Capacity", "Capacity", DefaultIDs.brassDepth).getInt();
+		ConfigSettings.nickelDepth = config.get("Nickel Bucket Capacity", "Capacity", DefaultIDs.nickelDepth).getInt();
+		ConfigSettings.magnaliumDepth = config.get("Magnalium Bucket Capacity", "Capacity", DefaultIDs.magnaliumDepth).getInt();
+		ConfigSettings.aluminiumDepth = config.get("Aluminium Bucket Capacity", "Capacity", DefaultIDs.aluminiumDepth).getInt();	
+		ConfigSettings.magnesiumDepth = config.get("Magnesium Bucket Capacity", "Capacity", DefaultIDs.magnesiumDepth).getInt();
+		ConfigSettings.obsidianDepth = config.get("Obsidian Bucket Capacity", "Capacity", DefaultIDs.obsidianDepth).getInt();
 		
 		
 		config.save();	
