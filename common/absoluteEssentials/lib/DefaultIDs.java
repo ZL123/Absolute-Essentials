@@ -28,6 +28,7 @@ public class DefaultIDs {
 	public static final int bucketMagnalium = 20162;
 	public static final int bucketAluminium = 20163;
 	public static final int bucketMagnesium = 20164;
+	public static final int bucketObsidian = 20165;
 	
 	//Item Durability
 	public static final int copperDur = 3;
@@ -55,5 +56,6 @@ public class DefaultIDs {
 	public static final int magnaliumDur = 20;
 	public static final int aluminiumDur = 1;
 	public static final int magnesiumDur = 10;
+	public static final int obsidianDur = 12;
 
 }
