@@ -5,7 +5,7 @@ public class ConfigSettings {
 	//Item IDs
 	public static int bucketCopper;
 	public static int bucketTin;
-	public static int bucketIron;
+	//public static int bucketIron;
 	public static int bucketSteel;
 	public static int bucketCarbon;
 	public static int bucketSilver;
@@ -33,7 +33,7 @@ public class ConfigSettings {
 	//Item Durability
 	public static int copperDur;
 	public static int tinDur;
-	public static int ironDur;
+	//public static int ironDur;
 	public static int steelDur;
 	public static int carbonDur;
 	public static int silverDur;
@@ -61,7 +61,7 @@ public class ConfigSettings {
 	//Bucket 'depth'
 	public static int copperDepth;
 	public static int tinDepth;
-	public static int ironDepth;
+	//public static int ironDepth;
 	public static int steelDepth;
 	public static int carbonDepth;
 	public static int silverDepth;

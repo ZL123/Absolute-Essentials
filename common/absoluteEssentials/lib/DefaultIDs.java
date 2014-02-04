@@ -5,7 +5,7 @@ public class DefaultIDs {
 	//Items
 	public static final int bucketCopper = 20140;
 	public static final int bucketTin = 20141;
-	public static final int bucketIron = 20142;
+	//public static final int bucketIron = 20142;
 	public static final int bucketSteel = 20143;
 	public static final int bucketCarbon = 20144;
 	public static final int bucketSilver = 20145;
@@ -33,7 +33,7 @@ public class DefaultIDs {
 	//Item Durability
 	public static final int copperDur = 3;
 	public static final int tinDur = 2;
-	public static final int ironDur = 5;
+	//public static final int ironDur = 5;
 	public static final int steelDur = 8;
 	public static final int carbonDur = 10;
 	public static final int silverDur = 12;
@@ -61,7 +61,7 @@ public class DefaultIDs {
 	//Bucket 'depth'
 	public static final int copperDepth = 1;
 	public static final int tinDepth = 1;
-	public static final int ironDepth = 1;
+	//public static final int ironDepth = 1;
 	public static final int steelDepth = 2;
 	public static final int carbonDepth = 1;
 	public static final int silverDepth = 1;

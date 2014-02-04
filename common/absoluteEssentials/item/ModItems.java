@@ -8,7 +8,7 @@ public class ModItems {
 	//Items
 	public static Item itemBucketCopper;
 	public static Item itemBucketTin;
-	public static Item itemBucketIron;
+	//public static Item itemBucketIron;
 	public static Item itemBucketSteel;
 	public static Item itemBucketCarbon;
 	public static Item itemBucketSilver;
@@ -37,7 +37,7 @@ public class ModItems {
 		
 		itemBucketCopper = new ItemDurableBucket(ConfigSettings.bucketCopper, ConfigSettings.copperDur, ConfigSettings.copperDepth).setUnlocalizedName("bucketCopper");
 		itemBucketTin = new ItemDurableBucket(ConfigSettings.bucketTin, ConfigSettings.tinDur, ConfigSettings.tinDepth).setUnlocalizedName("bucketTin");
-		itemBucketIron = new ItemDurableBucket(ConfigSettings.bucketIron, ConfigSettings.ironDur, ConfigSettings.ironDepth).setUnlocalizedName("bucketIron");
+		//itemBucketIron = new ItemDurableBucket(ConfigSettings.bucketIron, ConfigSettings.ironDur, ConfigSettings.ironDepth).setUnlocalizedName("bucketIron");
 		itemBucketSteel = new ItemDurableBucket(ConfigSettings.bucketSteel, ConfigSettings.steelDur, ConfigSettings.steelDepth).setUnlocalizedName("bucketSteel");
 		itemBucketCarbon = new ItemDurableBucket(ConfigSettings.bucketCarbon, ConfigSettings.carbonDur, ConfigSettings.carbonDepth).setUnlocalizedName("bucketCarbon");
 		itemBucketSilver = new ItemDurableBucket(ConfigSettings.bucketSilver, ConfigSettings.silverDur, ConfigSettings.silverDepth).setUnlocalizedName("bucketSilver");

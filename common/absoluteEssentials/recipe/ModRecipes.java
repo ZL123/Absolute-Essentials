@@ -1,7 +1,6 @@
 package absoluteEssentials.recipe;
 
 import net.minecraft.block.Block;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.oredict.ShapedOreRecipe;
 import absoluteEssentials.item.ModItems;
@@ -15,8 +14,8 @@ public class ModRecipes {
 			new Object[]{"X X", " X ", Character.valueOf('X'), "ingotCopper"}));
 		GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.itemBucketTin),
 				new Object[]{"X X", " X ", Character.valueOf('X'), "ingotTin"}));
-		GameRegistry.addRecipe(new ItemStack(ModItems.itemBucketIron),
-				new Object[]{"X X", " X ", Character.valueOf('X'), new ItemStack(Item.ingotIron)});
+		//GameRegistry.addRecipe(new ItemStack(ModItems.itemBucketIron),
+		//		new Object[]{"X X", " X ", Character.valueOf('X'), new ItemStack(Item.ingotIron)});
 		GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.itemBucketSteel),
 				new Object[]{"X X", " X ", Character.valueOf('X'), "ingotSteel"}));
 		GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.itemBucketCarbon),

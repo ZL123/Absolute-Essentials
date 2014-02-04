@@ -43,7 +43,7 @@ public class ConfigLoader {
 		//Item Durability
 		ConfigSettings.copperDur = config.get("Durability", "Copper Bucket Durability", DefaultIDs.copperDur).getInt();
 		ConfigSettings.tinDur = config.get("Durability", "Tin Bucket Durability", DefaultIDs.tinDur).getInt();
-		ConfigSettings.ironDur = config.get("Durability", "Iron Bucket Durability", DefaultIDs.ironDur).getInt();
+		//ConfigSettings.ironDur = config.get("Durability", "Iron Bucket Durability", DefaultIDs.ironDur).getInt();
 		ConfigSettings.steelDur = config.get("Durability", "Steel Bucket Durability", DefaultIDs.steelDur).getInt();
 		ConfigSettings.carbonDur = config.get("Durability", "Carbon Bucket Durability", DefaultIDs.carbonDur).getInt();
 		ConfigSettings.silverDur = config.get("Durability", "Silver Bucket Durability", DefaultIDs.silverDur).getInt();
@@ -71,7 +71,7 @@ public class ConfigLoader {
 		//Bucket 'depth'
 		ConfigSettings.copperDepth = config.get("Capacity", "Copper Bucket Capacity", DefaultIDs.copperDepth).getInt();
 		ConfigSettings.tinDepth = config.get("Capacity", "Tin Bucket Capacity", DefaultIDs.tinDepth).getInt();
-		ConfigSettings.ironDepth = config.get("Capacity", "Iron Bucket Capacity", DefaultIDs.ironDepth).getInt();
+		//ConfigSettings.ironDepth = config.get("Capacity", "Iron Bucket Capacity", DefaultIDs.ironDepth).getInt();
 		ConfigSettings.steelDepth = config.get("Capacity", "Steel Bucket Capacity", DefaultIDs.steelDepth).getInt();
 		ConfigSettings.carbonDepth = config.get("Capacity", "Carbon Bucket Capacity", DefaultIDs.carbonDepth).getInt();
 		ConfigSettings.silverDepth = config.get("Capacity", "Silver Bucket Capacity", DefaultIDs.silverDepth).getInt();

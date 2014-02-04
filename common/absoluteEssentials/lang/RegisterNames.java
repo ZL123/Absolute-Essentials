@@ -11,7 +11,7 @@ public class RegisterNames {
 		//Items
 		LanguageRegistry.addName(ModItems.itemBucketCopper, "Copper Bucket");
 		LanguageRegistry.addName(ModItems.itemBucketTin, "Tin Bucket");
-		LanguageRegistry.addName(ModItems.itemBucketIron, "Iron Bucket");
+		//LanguageRegistry.addName(ModItems.itemBucketIron, "Iron Bucket");
 		LanguageRegistry.addName(ModItems.itemBucketSteel, "Steel Bucket");
 		LanguageRegistry.addName(ModItems.itemBucketCarbon, "Carbon Bucket");
 		LanguageRegistry.addName(ModItems.itemBucketSilver, "Silver Bucket");
