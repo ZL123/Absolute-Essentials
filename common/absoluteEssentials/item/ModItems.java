@@ -30,7 +30,7 @@ public class ModItems {
 	public static Item itemBucketNickel;
 	public static Item itemBucketMagnalium;
 	public static Item itemBucketAluminium;
-	public static Item itemBucketMagnesium;
+	//public static Item itemBucketMagnesium;
 	public static Item itemBucketObsidian;
 	
 	public static void init() {
@@ -59,7 +59,7 @@ public class ModItems {
 		itemBucketNickel = new ItemDurableBucket(ConfigSettings.bucketNickel, ConfigSettings.nickelDur, ConfigSettings.nickelDepth).setUnlocalizedName("bucketNickel");
 		itemBucketMagnalium = new ItemDurableBucket(ConfigSettings.bucketMagnalium, ConfigSettings.magnaliumDur, ConfigSettings.magnaliumDepth).setUnlocalizedName("bucketMagnalium");
 		itemBucketAluminium = new ItemDurableBucket(ConfigSettings.bucketAluminium, ConfigSettings.aluminiumDur, ConfigSettings.aluminiumDepth).setUnlocalizedName("bucketAluminium");
-		itemBucketMagnesium = new ItemDurableBucket(ConfigSettings.bucketMagnesium, ConfigSettings.magnesiumDur, ConfigSettings.magnesiumDepth).setUnlocalizedName("bucketMagnesium");
+		//itemBucketMagnesium = new ItemDurableBucket(ConfigSettings.bucketMagnesium, ConfigSettings.magnesiumDur, ConfigSettings.magnesiumDepth).setUnlocalizedName("bucketMagnesium");
 		itemBucketObsidian = new ItemDurableBucket(ConfigSettings.bucketObsidian, ConfigSettings.obsidianDur, ConfigSettings.obsidianDepth).setUnlocalizedName("bucketObsidian");
 		
 	}

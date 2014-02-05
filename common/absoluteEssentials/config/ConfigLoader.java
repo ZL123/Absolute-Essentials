@@ -37,7 +37,7 @@ public class ConfigLoader {
 		ConfigSettings.bucketNickel = config.getItem("Nickel Bucket ID", DefaultIDs.bucketNickel).getInt();
 		ConfigSettings.bucketMagnalium = config.getItem("Magnalium Bucket ID", DefaultIDs.bucketMagnalium).getInt();
 		ConfigSettings.bucketAluminium = config.getItem("Aluminium Bucket ID", DefaultIDs.bucketAluminium).getInt();	
-		ConfigSettings.bucketMagnesium = config.getItem("Magnesium Bucket ID", DefaultIDs.bucketMagnesium).getInt();
+		//ConfigSettings.bucketMagnesium = config.getItem("Magnesium Bucket ID", DefaultIDs.bucketMagnesium).getInt();
 		ConfigSettings.bucketObsidian = config.getItem("Obsidian Bucket ID", DefaultIDs.bucketObsidian).getInt();
 		
 		//Item Durability
@@ -65,7 +65,7 @@ public class ConfigLoader {
 		ConfigSettings.nickelDur = config.get("Durability", "Nickel Bucket Durability", DefaultIDs.nickelDur).getInt();
 		ConfigSettings.magnaliumDur = config.get("Durability", "Magnalium Bucket Durability", DefaultIDs.magnaliumDur).getInt();
 		ConfigSettings.aluminiumDur = config.get("Durability", "Aluminium Bucket Durability", DefaultIDs.aluminiumDur).getInt();	
-		ConfigSettings.magnesiumDur = config.get("Durability", "Magnesium Bucket Durability", DefaultIDs.magnesiumDur).getInt();
+		//ConfigSettings.magnesiumDur = config.get("Durability", "Magnesium Bucket Durability", DefaultIDs.magnesiumDur).getInt();
 		ConfigSettings.obsidianDur = config.get("Durability", "Obsidian Bucket Durability", DefaultIDs.obsidianDur).getInt();
 		
 		//Bucket 'depth'
@@ -93,7 +93,7 @@ public class ConfigLoader {
 		ConfigSettings.nickelDepth = config.get("Capacity", "Nickel Bucket Capacity", DefaultIDs.nickelDepth).getInt();
 		ConfigSettings.magnaliumDepth = config.get("Capacity", "Magnalium Bucket Capacity", DefaultIDs.magnaliumDepth).getInt();
 		ConfigSettings.aluminiumDepth = config.get("Capacity", "Aluminium Bucket Capacity", DefaultIDs.aluminiumDepth).getInt();	
-		ConfigSettings.magnesiumDepth = config.get("Capacity", "Magnesium Bucket Capacity", DefaultIDs.magnesiumDepth).getInt();
+		//ConfigSettings.magnesiumDepth = config.get("Capacity", "Magnesium Bucket Capacity", DefaultIDs.magnesiumDepth).getInt();
 		ConfigSettings.obsidianDepth = config.get("Capacity", "Obsidian Bucket Capacity", DefaultIDs.obsidianDepth).getInt();
 		
 		

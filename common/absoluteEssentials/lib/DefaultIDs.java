@@ -27,7 +27,7 @@ public class DefaultIDs {
 	public static final int bucketNickel = 20161;
 	public static final int bucketMagnalium = 20162;
 	public static final int bucketAluminium = 20163;
-	public static final int bucketMagnesium = 20164;
+	//public static final int bucketMagnesium = 20164;
 	public static final int bucketObsidian = 20165;
 	
 	//Item Durability
@@ -55,7 +55,7 @@ public class DefaultIDs {
 	public static final int nickelDur = 16;
 	public static final int magnaliumDur = 20;
 	public static final int aluminiumDur = 1;
-	public static final int magnesiumDur = 10;
+	//public static final int magnesiumDur = 10;
 	public static final int obsidianDur = 12;
 	
 	//Bucket 'depth'
@@ -83,7 +83,7 @@ public class DefaultIDs {
 	public static final int nickelDepth = 2;
 	public static final int magnaliumDepth = 2;
 	public static final int aluminiumDepth = 1;
-	public static final int magnesiumDepth = 2;
+	//public static final int magnesiumDepth = 2;
 	public static final int obsidianDepth = 1;
 	
 

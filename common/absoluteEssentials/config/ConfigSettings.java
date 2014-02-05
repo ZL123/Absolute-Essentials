@@ -27,7 +27,7 @@ public class ConfigSettings {
 	public static int bucketNickel;
 	public static int bucketMagnalium;
 	public static int bucketAluminium;
-	public static int bucketMagnesium;
+	//public static int bucketMagnesium;
 	public static int bucketObsidian;
 	
 	//Item Durability
@@ -55,7 +55,7 @@ public class ConfigSettings {
 	public static int nickelDur;
 	public static int magnaliumDur;
 	public static int aluminiumDur;
-	public static int magnesiumDur;
+	//public static int magnesiumDur;
 	public static int obsidianDur;
 	
 	//Bucket 'depth'
@@ -83,7 +83,7 @@ public class ConfigSettings {
 	public static int nickelDepth;
 	public static int magnaliumDepth;
 	public static int aluminiumDepth;
-	public static int magnesiumDepth;
+	//public static int magnesiumDepth;
 	public static int obsidianDepth;
 	
 	

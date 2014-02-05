@@ -33,7 +33,7 @@ public class RegisterNames {
 		LanguageRegistry.addName(ModItems.itemBucketNickel, "Nickel Bucket");
 		LanguageRegistry.addName(ModItems.itemBucketMagnalium, "Magnalium Bucket");
 		LanguageRegistry.addName(ModItems.itemBucketAluminium, "Aluminium Bucket");
-		LanguageRegistry.addName(ModItems.itemBucketMagnesium, "Magnesium Bucket");
+		//LanguageRegistry.addName(ModItems.itemBucketMagnesium, "Magnesium Bucket");
 		LanguageRegistry.addName(ModItems.itemBucketObsidian, "Obsidian Bucket");
 		
 		

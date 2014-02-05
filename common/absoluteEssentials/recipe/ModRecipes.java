@@ -62,8 +62,8 @@ public class ModRecipes {
 				new Object[]{"X X", " X ", Character.valueOf('X'), "ingotMagnalium"}));
 		GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.itemBucketAluminium),
 				new Object[]{"X X", " X ", Character.valueOf('X'), "ingotAluminium"}));
-		GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.itemBucketMagnesium),
-				new Object[]{"X X", " X ", Character.valueOf('X'), "ingotMagnesium"}));
+		//GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.itemBucketMagnesium),
+		//		new Object[]{"X X", " X ", Character.valueOf('X'), "ingotMagnesium"}));
 		GameRegistry.addRecipe(new ItemStack(ModItems.itemBucketObsidian),
 				new Object[]{"X X", " X ", Character.valueOf('X'), new ItemStack(Block.obsidian)});		
 		
